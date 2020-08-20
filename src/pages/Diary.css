@@ -1,0 +1,19 @@
+.description{
+    text-align: justify;
+}
+
+.edit-button{
+    background-color:#2480C6;
+    color:white;
+    border:1px solid#2480C6;
+    border-radius:1rem;
+    float:right;
+}
+
+.title-button-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+

@@ -1,0 +1,25 @@
+.diary-card{
+    margin: 1rem auto;
+    padding:1rem;
+    border: 0.01px solid #2C706A;
+    border-radius: 1rem;
+    background-color: #f3e6e3;
+}
+
+.date{
+    color: grey;
+}
+
+.title{
+    color:#435059;
+    display:inline-block;
+}
+
+.delete-button{
+    display:inline-block;
+    background-color:#2480C6;
+    color:white;
+    border:1px solid#2480C6;
+    border-radius:1rem;
+}
+
